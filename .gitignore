@@ -1,0 +1,8 @@
+target/
+.idea/
+project/
+
+files/input/*
+files/output/*
+!.gitkeep
+
