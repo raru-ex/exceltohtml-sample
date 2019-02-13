@@ -11,7 +11,7 @@ import javax.xml.transform.stream.StreamResult
 import org.apache.poi.hssf.converter.ExcelToHtmlConverter
 import org.apache.poi.hssf.usermodel.HSSFWorkbook
 
-object PoiExecuter {
+object PoiExecutor {
 
   def main(args: Array[String]): Unit = {
     val xlsFilePath = "files/input/sample1.xls"

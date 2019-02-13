@@ -5,4 +5,4 @@ project/
 files/input/*
 files/output/*
 !.gitkeep
-
+.DS_Store
